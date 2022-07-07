@@ -21,7 +21,7 @@ function App() {
       <p>
         <h2>
         Rule:- You can click any of the 3 buttons out of 9 and if total goes
-        greater than 10 you will win or you lose.......
+        greater than 10 you will win or you lose. Archi
         </h2>
       </p>
       </div>
